@@ -1,2 +1,2 @@
-# profile
-這是我個人網站
+# This is my profile
+## This is AI-CHAT!
